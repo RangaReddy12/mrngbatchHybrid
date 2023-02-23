@@ -181,7 +181,7 @@ public class FunctionLibrary {
 		}
 		public static void mul()
 		{
-			int a=876,b=9,c;
+			int a=534543534,b=976765765,c;
 			c=a+b;
 			System.out.println(c);
 		}
