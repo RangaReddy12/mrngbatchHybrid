@@ -167,6 +167,24 @@ public class FunctionLibrary {
 			DateFormat df = new SimpleDateFormat("YYYY_MM_dd");
 			return df.format(date);
 		}
+		public static void add()
+		{
+			int a=876,b=9,c;
+			c=a+b;
+			System.out.println(c);
+		}
+		public static void div()
+		{
+			int a=876,b=9,c;
+			c=a+b;
+			System.out.println(c);
+		}
+		public static void mul()
+		{
+			int a=876,b=9,c;
+			c=a+b;
+			System.out.println(c);
+		}
 	}
 
 
